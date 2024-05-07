@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 	string animal1, animal2, animal3;
 	
 	cout << "ingrese el nombre de 3 animales" << endl;
-	getline(animal1, 20);
+	cin.getline(animal1, 20);
 	cout << "ingrese el nombre de 3 animales" << endl;
 	cin.getline(animal2, 20);
 	cout << "ingrese el nombre de 3 animales" << endl;
