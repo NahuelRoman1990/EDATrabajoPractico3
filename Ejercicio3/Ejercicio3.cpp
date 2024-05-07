@@ -1,6 +1,6 @@
 [Project]
-FileName=Ejercicio_1.dev
-Name=Proyecto 7
+FileName=Ejercicio3.cpp
+Name=Proyecto 9
 Type=1
 Ver=2
 ObjFiles=
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0000000000000000000000000
-UnitCount=2
+UnitCount=1
 
 [VersionInfo]
 Major=1
@@ -52,16 +52,6 @@ SyncProduct=1
 
 [Unit1]
 FileName=main.cpp
-CompileCpp=1
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit2]
-FileName=Ejercicio3\Ejercicio3.cpp
 CompileCpp=1
 Folder=
 Compile=1
