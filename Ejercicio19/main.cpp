@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
         cout << endl;
     }
     
-    // Mostrar las ventas por rubro de cada vendedor
+    // ventas por rubro de cada vendeedor
     for (int i = 0; i < cantiVendedores; ++i) {
         cout << "Ventas de " << vendedores[i].nombre << ":" << endl;
         for (int j = 0; j < 4; ++j) {
