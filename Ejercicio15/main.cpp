@@ -11,7 +11,7 @@ using namespace std;
 
 // La estructura de las notas
 struct Promedio {
-    float nota1; // float porque puede ser con coma la notra
+    float nota1; // float porque puede ser con coma la nota
     float nota2;
     float nota3;
 };
@@ -92,9 +92,9 @@ int main(int argc, char** argv) {
     
     // mejor promedio
     if (promedio1 > promedio2) {
-        cout << "\nEl alumno con el mejor promedio es: " << alumno1.nombre << endl;
+        cout << "\nMejor promedio lo tiene: " << alumno1.nombre << endl;
     } else if (promedio2 > promedio1) {
-        cout << "\nEl alumno con el mejor promedio es: " << alumno2.nombre << endl;
+        cout << "\nMejor promedio lo tiene: " << alumno2.nombre << endl;
     } else {
         cout << "\nAmbos alumnos tienen el mismo promedio." << endl;
     }
